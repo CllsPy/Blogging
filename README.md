@@ -7,4 +7,5 @@ Um repositório que contém todos os artigos que escrevi pela internet (Kaggle, 
 
 ## Dio
 - [Como eu uso a técnica Feyman para aprender conceitos complexos da programação](https://web.dio.me/articles/como-eu-uso-a-tecnica-feyman-para-aprender-conceitos-complexos-da-programacao?back=%2Farticles&page=1&order=oldest)
+- [Análise exploratória de dados em uma linha de código](https://web.dio.me/articles/analise-exploratoria-de-dados-em-uma-linha-de-codigo?back=%2Fhome&page=1&order=oldest)
 
