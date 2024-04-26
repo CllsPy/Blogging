@@ -11,5 +11,6 @@ Um repositório que contém todos os artigos que escrevi pela internet (Kaggle, 
 - [[Code Tutorial] Sistema de recomendação para filmes com KNN](https://web.dio.me/articles/code-tutorial-sistema-de-recomendacao-para-filmes-com-knn?back=%2Fhome&page=1&order=oldest)
 - [[Code Tutorial] Neural Network com torch](https://web.dio.me/articles/code-tutorial-neural-network-com-torch?back=%2Farticles&page=1&order=oldest)
 - [Eleve o nível do seu código em Python com Ruff](https://web.dio.me/articles/eleve-o-nivel-do-seu-codigo-em-python-com-ruff?back=%2Farticles&page=1&order=oldest)
+- [Machine Learning Workflow Com Código](https://web.dio.me/articles/machine-learning-workflow-com-codigo?back=%2Farticles&page=1&order=oldest)
 
 
